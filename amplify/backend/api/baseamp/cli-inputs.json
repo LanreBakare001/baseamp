@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "baseamp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\lanre.bakare\\Downloads\\amp_dir\\baseamp\\amplify\\backend\\api\\baseamp\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}

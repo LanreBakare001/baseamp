@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "BaseApp01-dev-authRole",
+      "UnauthRoleArn": "arn:aws:iam::105034243586:role/BaseApp01-dev-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::105034243586:role/BaseApp01-dev-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "baseapp01-dev-155331-deployment",
+      "UnauthRoleName": "BaseApp01-dev-unauthRole",
+      "StackName": "BaseApp01-dev",
+      "StackId": "arn:aws:cloudformation:us-east-1:105034243586:stack/BaseApp01-dev/cf89ed90-a3af-11ec-b3a9-12728bf59c91",
+      "AmplifyAppId": "d12v5yqwujepmb"
+    }
+  }
+}
