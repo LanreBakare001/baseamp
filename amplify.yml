@@ -1,0 +1,21 @@
+version: 1
+env:
+backend:
+  phases:
+    preBuild:
+      commands:
+        - echo "complete"
+    build:
+      commands:
+        - echo "complete"
+    postBuild:
+        commands:
+        - echo "complete"
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - echo "complete"
+    build:
+      commands:
+        - echo "complete"
